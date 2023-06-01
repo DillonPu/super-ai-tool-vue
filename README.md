@@ -29,8 +29,8 @@ npm run build:stage
 npm run build:prod
 ```
 
-小程序端代码：https://github.com/DillonPu/super-ai-tool-miniprogram.git
+小程序端代码地址：https://github.com/DillonPu/super-ai-tool-miniprogram.git
 
-后端管理系统web端vue代码：https://github.com/DillonPu/super-ai-tool-java.git
+后台java代码地址：https://github.com/DillonPu/super-ai-tool-java.git
 
 小程序体验：![AI超级小助手](./super_ai_mini.jpg)
